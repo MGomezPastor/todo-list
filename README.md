@@ -1,6 +1,7 @@
 ## Preview
 ![To-Do List App](https://i.ibb.co/h73STxF/screencapture-localhost-5500-2020-11-29-22-11-39.png)
-## Features
+## PREGUNTA 1:
+Integración: Unir las partes o componentes de un software en un solo producto de software
 - [x] Show tasks list
 - [x] Add new task
 - [ ] Complete task
